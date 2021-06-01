@@ -1,0 +1,14 @@
+{
+     "Products":[{
+            "nombre":"rojo",
+            "id":1
+        },
+        {
+            "nombre":"verde",
+            "id":2
+        },
+        {
+            "nombre":"azul",
+            "id":3
+        }
+    ]}
